@@ -1,8 +1,8 @@
 #  Udacity Front End Development Nonodegree Capstone: My Custom Travel App
 
-My custom travel app can helps you plan your trips. Simply enter the desired trip location &amp; date; My Custom Travel App will display the current weather or weather forecast depending on the trip date and an image of the location using information obtained from external APIs.
+My custom and valuable travel app that can helps you plan your trips. Simply enter the desired trip location &amp; date; My Custom Travel App will display the current weather or weather forecast depending on the trip date and an image of the location using information obtained from external APIs.
 
-## Table of Contents in the repo
+## Table of Contents in the repository
 
 1. [About the Project](#about-the-project)
 2. [API(s) Used](#apis(s)-used)
